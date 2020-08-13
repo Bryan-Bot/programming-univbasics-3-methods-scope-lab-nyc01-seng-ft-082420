@@ -13,8 +13,8 @@ def link
   puts say
 end
 
-def all_phrases(arg)
-  mario(arg)
-  toadstool(arg)
-  link(arg)
+def all_phrases
+  mario
+  toadstool
+  link
 end
